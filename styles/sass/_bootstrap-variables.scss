@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans);
 
 //== Colors
 //
@@ -7,11 +7,11 @@
 $gray-base:              #000;
 $gray-darker:            lighten($gray-base, 13.5%); // #222
 $gray-dark:              #212121;
-$gray:                   #666;
+$gray:                   #212020;
 $gray-light:             #bbb;
 $gray-lighter:           lighten($gray-base, 93.5%); // #eee
 
-$brand-primary:         #006DB8;
+$brand-primary:         #FAC969;
 $brand-success:         #4CAF50;
 $brand-info:            #01579B;
 $brand-warning:         #EF6C00;
@@ -40,7 +40,7 @@ $link-hover-decoration: underline;
 //
 //## Font, line-height, and color for body text, headings, and more.
 
-$font-family-sans-serif:  'Open Sans', Helvetica, Arial, sans-serif;
+$font-family-sans-serif:  'Noto Sans', Helvetica, Arial, sans-serif;
 $font-family-serif:       Georgia, "Times New Roman", Times, serif;
 //** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
 $font-family-monospace:   Menlo, Monaco, Consolas, "Courier New", monospace;
